@@ -1,0 +1,24 @@
+# Ren'Py generated files
+**/cache/
+**/saves/
+**/*.rpyc
+**/*.rpymc
+**/*.rpyb
+
+# Compiled and packaged files
+**/*.exe
+**/*.zip
+**/*.dat
+
+# Logs and temporary files
+**/log.txt
+**/errors.txt
+**/traceback.txt
+**/*.bak
+**/*.old
+**/*.new
+**/*.deepseek
+**/.vscode/
+
+# Fonts temporarily excluded until licenses are documented
+**/*.ttf

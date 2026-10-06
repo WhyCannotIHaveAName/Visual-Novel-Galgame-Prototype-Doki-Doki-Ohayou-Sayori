@@ -1,5 +1,14 @@
 # Doki Doki Ohayou Sayori — Visual Novel Prototypes
 
+## 完整可玩版 2.1
+
+- **直接玩（Windows）**：[已解压游戏与启动说明](Windows/README.md)。下载整个仓库并解压，进入 `Windows/OhayouSayori-2.1-win`，双击 `OhayouSayori.exe`。
+- **改源码**：[Ren’Py 项目](RenPy/README.md)，包含剧本、素材、作者调试室和验证工具。
+- 九个结局、五篇小剧场、39 项成就；26 张重绘女主立绘；可调节的 Monika 恐怖演出。
+- 原始 C 版和 Ren’Py 初稿继续保留在下方归档中。
+
+> 2026-10 完整修复版已加入 [`RenPy/`](RenPy/README.md)：九个结局、五篇小剧场、回忆手册、完整场景与配乐。2.1 补入统一重绘立绘、作者调试室和 Monika 恐怖演出。下文保留原归档说明；`C-V4.2` 和 `Ren'Py-MVP` 未改动。
+
 ## Overview
 
 This repository records a personal learning project from September to November in 2025: building a branching visual novel first as a custom Windows console program in C, and later rebuilding it as a Ren'Py MVP.

@@ -1,0 +1,1 @@
+PASS UI navigation, gallery, help, save, preferences, 11-option hidden menu

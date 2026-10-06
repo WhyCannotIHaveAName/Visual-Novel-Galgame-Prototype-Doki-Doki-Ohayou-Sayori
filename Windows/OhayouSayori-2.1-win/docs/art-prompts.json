@@ -1,0 +1,137 @@
+[
+  {
+    "asset": "game/images/bg_campus.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. A finished visual novel background, wide 16:9 1920x1080 composition. Empty Shanghai university campus walkway in early autumn morning, ginkgo and plane trees, low red brick teaching buildings, bicycles parked at the side, soft golden sunlight through leaves, quiet everyday atmosphere with a hint of wistfulness. High quality hand painted anime visual novel background, delicate clean architecture and painterly foliage, warm cream coral and muted teal palette, realistic perspective, no people, no text, no logos, no watermark. Foreground walkway is open for overlaying character sprites, detailed background beyond. This is a single scene, not a collage.",
+    "generated_file": "exec-1bcda4e7-5967-420f-98b1-0d47487cdc69.png"
+  },
+  {
+    "asset": "game/images/bg_cafe.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Cozy small cafe and casual restaurant near a Shanghai university at early evening, empty wood tables, comfortable chairs, pendant lamps, amber window light, a cup of coffee on side table, shelves, outside blue dusk. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-fab0558d-063a-4965-86f1-fe743fffd648.png"
+  },
+  {
+    "asset": "game/images/bg_river.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Quiet Shanghai Huangpu riverside promenade and small ferry pier at blue hour, broad calm water, far shore distant sparse city lights, an empty bench and safe metal railing, melancholy lavender dusk with one warm lantern, open foreground, no iconic crowded tourist skyline. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-9a6928a4-4f01-4d74-9802-82d3f174eeb5.png"
+  },
+  {
+    "asset": "game/images/bg_studio.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Small empty university campus radio studio and music club room, upright piano beside window, microphone with pop filter, headphones, mixing console and neatly stacked records, dusk light through blinds, intimate warm amber and muted blue. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-8f54c668-70ad-42d0-91a4-99e924ae8ba5.png"
+  },
+  {
+    "asset": "game/images/bg_lab.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty university engineering teaching laboratory, electronics workbenches with a small wheeled line-following robot, laptops with indistinct dark screens, oscilloscope, neatly routed cables, cool daylight with warm wood, clean accessible educational space. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-0fa8f0e8-1862-4f23-afd1-f572c672044f.png"
+  },
+  {
+    "asset": "game/images/bg_station.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Quiet modern Shanghai metro station concourse in morning, ticket gates on right, broad open walkway in foreground, glass entrance with trees outside, clear blue and cream palette, no readable signage. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-481ef9e9-f086-45b8-a818-2846877fe3a9.png"
+  },
+  {
+    "asset": "game/images/bg_park.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Small quiet amusement park at night in a Shanghai suburb, illuminated modest ferris wheel, little roller coaster in the distance, warm ice cream kiosk lights on one side, winter dark indigo sky, dreamlike intimate atmosphere, no visitors. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-3e46c7a7-214a-4d42-ac7e-24eaaf46dbe1.png"
+  },
+  {
+    "asset": "game/images/bg_clinic.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Quiet empty university clinic room in morning, single neatly made bed at right, visitor chairs and bedside cabinet, curtain and broad window letting in gentle sunlight, reassuring clean cream and muted mint palette. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-43aec0aa-3bff-452b-9db6-8872353551b1.png"
+  },
+  {
+    "asset": "game/images/bg_roof.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty university dormitory rooftop at deep winter night, closed stairwell door, secure tall perimeter railing, distant city windows and dark blue sky, cold still melancholy atmosphere, no people, no violence, no blood. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-8251851c-1a05-4867-aa14-58e11627ead8.png"
+  },
+  {
+    "asset": "game/images/bg_lake.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty small university campus lake at night, grassy bank and plane trees, low safe stone path along water, faint reflection of a teaching building and warm windows across the small lake, intimate quiet dark teal and indigo mood. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-d62c100b-3f68-4a1d-8d9f-18c4acb5afb5.png"
+  },
+  {
+    "asset": "game/images/bg_library.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty quiet university library reading room, long study tables, closed laptops, reading lamps and bookshelves, evening outside tall windows, warm amber study light, foreground space for sprites. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-04090891-5ace-4330-ab86-be874af7a6cc.png"
+  },
+  {
+    "asset": "game/images/bg_office.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty university student association office, neat desks, document folders and blank bulletin board, potted plants, afternoon window light, ordinary student room not corporate luxury. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-8ed36b4b-e1e4-4721-b6d3-56e19610c97a.png"
+  },
+  {
+    "asset": "game/images/bg_city.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty old Shanghai tree-lined side street on a drizzly autumn afternoon, red public telephone booth beside plane trees, elegant low-rise historic facades, wet pavement gently reflecting soft daylight, wistful everyday citywalk atmosphere, no identifiable text. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-982fca57-5ad8-41be-81a1-f25a71443e58.png"
+  },
+  {
+    "asset": "game/images/bg_bbq_restored.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty outdoor university canteen courtyard at evening, small wooden tables and stools, a metal barbecue stall at the far side, a paper plate with three grilled sweet potatoes on a foreground table, red brick wall and amber lantern lighting, quiet welcoming autumn atmosphere. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-ae9e2e97-b8b4-4129-8dac-295a1f9f1d9d.png"
+  },
+  {
+    "asset": "game/images/bg_classroom_restored.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty contemporary Chinese university classroom, rows of wooden desks and chairs facing a green chalkboard with no writing, tall windows on the left, warm afternoon sun and tree shadows, slightly nostalgic early autumn atmosphere. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-e9cc6283-a247-4b33-b407-b73395e6fccf.png"
+  },
+  {
+    "asset": "game/images/bg_dormday_restored.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty tidy Chinese university student dorm room, four loft beds above desks and wardrobes, central open walkway, notebooks, kettle, curtains by a far window, soft morning sun, believable compact everyday student space, eye-level view. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-0391bfb1-2bc6-487f-90a6-295e40163abe.png"
+  },
+  {
+    "asset": "game/images/bg_dormnight_restored.png",
+    "kind": "background",
+    "generator": "built-in ImageGen",
+    "prompt": "Use case: illustration-story. Finished single visual novel background, wide 16:9 landscape. Empty Chinese university student dorm room at late night, four loft beds above desks and wardrobes, central open walkway, notebooks and kettle, far window and closed blue curtains, a single warm desk lamp with cool moonlight, quiet introspective safe atmosphere, eye-level view. High quality hand painted anime environment, delicate clean architecture, realistic perspective, warm cream coral and muted teal accents, detailed painterly texture, consistent visual novel art direction. Open lower foreground for character sprites. No people, no text, no logos, no watermarks, no collage.",
+    "generated_file": "exec-4f2783b8-4c99-414b-ab3b-2fa15dda61f5.png"
+  },
+  {
+    "asset": "game/images/leo_normal.png",
+    "kind": "sprite",
+    "generator": "built-in ImageGen",
+    "reference": "../C-V4.2/leo.png",
+    "prompt_summary": "Preserve the reference character identity. Standing three-quarter-body anime visual novel sprite of Leo, black tailored suit with red trim, self-assured expression, transparent background.",
+    "note": "Description retained for reproduction; exact full request was not retained."
+  },
+  {
+    "asset": "game/images/shane_normal.png",
+    "kind": "sprite",
+    "generator": "built-in ImageGen",
+    "reference": "../C-V4.2/shane.png",
+    "prompt_summary": "Preserve the reference character identity. Standing anime visual novel sprite of Shane, brown short hair, casual navy hoodie over white T-shirt, holding backpack strap, friendly expression, transparent background.",
+    "note": "Description retained for reproduction; exact full request was not retained."
+  }
+]

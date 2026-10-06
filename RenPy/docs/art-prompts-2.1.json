@@ -1,0 +1,373 @@
+[
+  {
+    "character": "sayori",
+    "expression": "normal",
+    "prompt": "Use case: identity-preserve. Create a freshly redrawn production-ready visual novel standing character sprite based on the attached OLD identity reference. Retain only the character's identity and the clothing specified here, redraw crisply. Sayori: adult college student, short peach coral-pink bob, vivid sky-blue eyes, red bow on the viewer's upper-right side of her hair. Outfit exactly a warm gray blazer open over a burnt-orange cable-knit sweater vest, white collared blouse with thin red ribbon tie, navy-blue pleated skirt. Gentle attentive smile, both arms down naturally.\nUnified art direction for all cast: refined clean anime cel-shading, delicate precise linework, restrained soft highlights, anatomically plausible adult proportions, roughly 6.5 heads tall extrapolated, no chibi, no oversized bust. Format vertical 2:3 portrait, ideally 1024x1536 or larger. Frame from complete crown/bow to mid-thigh; character centered with head top at 7% canvas height, eyes near 23%, hips near 77%, lower edge cuts thighs only. Face width around 20% canvas width. Entire hair, shoulders, arms and hands must fit with at least 8% side clearance. Exactly one standing person, no props, no background, no floor shadow, no glow, no text, no border, no sheet. True transparent alpha background. Sharp face detail suitable for 1080p game. Consistent even frontal lighting, neutral pose suitable for expression variants.",
+    "project_path": "game/images/v21_sayori_normal.png",
+    "generated_file": "exec-a829d5d8-00b5-4d18-9850-17e731d57945.png",
+    "mode": "builtin ImageGen",
+    "sha256": "5cdec3505621bb9a12b6ca23244fc464eca0dda36423aa9da541f0cf50398077",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "obedience",
+    "expression": "normal",
+    "prompt": "Use case: identity-preserve. Create a freshly redrawn production-ready visual novel standing character sprite based on the attached OLD identity reference. Retain only the character's identity and the clothing specified here, redraw crisply. Obedience: adult college student, medium-long chestnut brown hair softly curled at ends, purple eyes, small cream-and-purple butterfly hair clip on viewer's right side. Outfit exactly an ivory long-sleeve knit top, loose sleeves ending at wrists, tucked into a plain dark navy A-line skirt. Quiet gentle expression, both hands loosely clasped at waist. Her whole crown of hair must be intact and smoothly rounded, never cropped or flattened.\nUnified art direction for all cast: refined clean anime cel-shading, delicate precise linework, restrained soft highlights, anatomically plausible adult proportions, roughly 6.5 heads tall extrapolated, no chibi, no oversized bust. Format vertical 2:3 portrait, ideally 1024x1536 or larger. Frame from complete crown/bow to mid-thigh; character centered with head top at 7% canvas height, eyes near 23%, hips near 77%, lower edge cuts thighs only. Face width around 20% canvas width. Entire hair, shoulders, arms and hands must fit with at least 8% side clearance. Exactly one standing person, no props, no background, no floor shadow, no glow, no text, no border, no sheet. True transparent alpha background. Sharp face detail suitable for 1080p game. Consistent even frontal lighting, neutral pose suitable for expression variants.",
+    "project_path": "game/images/v21_obedience_normal.png",
+    "generated_file": "exec-47efae9f-dacd-4e47-9add-67100a9d90f0.png",
+    "mode": "builtin ImageGen",
+    "sha256": "a05b874e5bd9aa6c6d247dccdc30620bcb2ff8d4ba808af4e2da10c52f5997bb",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "cordelia",
+    "expression": "normal",
+    "prompt": "Use case: identity-preserve. Create a freshly redrawn production-ready visual novel standing character sprite based on the attached OLD identity reference. Retain only the character's identity and the clothing specified here, redraw crisply. Cordelia: adult college student, long straight dark chocolate-brown hair, warm reddish-brown eyes. Outfit exactly a burgundy short-sleeve V-neck jersey-like top with narrow white neckline and sleeve trim, tucked into a high-waisted navy pleated skirt. Thoughtful reserved expression, arms resting naturally, one hand loosely holding the other wrist.\nUnified art direction for all cast: refined clean anime cel-shading, delicate precise linework, restrained soft highlights, anatomically plausible adult proportions, roughly 6.5 heads tall extrapolated, no chibi, no oversized bust. Format vertical 2:3 portrait, ideally 1024x1536 or larger. Frame from complete crown/bow to mid-thigh; character centered with head top at 7% canvas height, eyes near 23%, hips near 77%, lower edge cuts thighs only. Face width around 20% canvas width. Entire hair, shoulders, arms and hands must fit with at least 8% side clearance. Exactly one standing person, no props, no background, no floor shadow, no glow, no text, no border, no sheet. True transparent alpha background. Sharp face detail suitable for 1080p game. Consistent even frontal lighting, neutral pose suitable for expression variants.",
+    "project_path": "game/images/v21_cordelia_normal.png",
+    "generated_file": "exec-ab5f7bf0-9c51-4c76-bb26-5ce4f168a97d.png",
+    "mode": "builtin ImageGen",
+    "sha256": "95f69ef860233fe43745c15eb6547eb340d6ad8cf9048bb1a67dcf53e9bc525c",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "normal",
+    "prompt": "Use case: identity-preserve. Create a freshly redrawn production-ready visual novel standing character sprite based on the attached OLD identity reference. Retain only the character's identity and the clothing specified here, redraw crisply. Monika: adult college student, long chestnut-copper hair in a high ponytail tied with a white bow, emerald green eyes. Outfit exactly a warm gray blazer open over a burnt-orange sweater vest, white collared blouse with thin red ribbon tie, navy-blue pleated skirt. Standing upright facing viewer, both hands gently clasped at waist, knowing gentle closed-mouth smile. NOT seated, no desk.\nUnified art direction for all cast: refined clean anime cel-shading, delicate precise linework, restrained soft highlights, anatomically plausible adult proportions, roughly 6.5 heads tall extrapolated, no chibi, no oversized bust. Format vertical 2:3 portrait, ideally 1024x1536 or larger. Frame from complete crown/bow to mid-thigh; character centered with head top at 7% canvas height, eyes near 23%, hips near 77%, lower edge cuts thighs only. Face width around 20% canvas width. Entire hair, shoulders, arms and hands must fit with at least 8% side clearance. Exactly one standing person, no props, no background, no floor shadow, no glow, no text, no border, no sheet. True transparent alpha background. Sharp face detail suitable for 1080p game. Consistent even frontal lighting, neutral pose suitable for expression variants.",
+    "project_path": "game/images/v21_monika_normal.png",
+    "generated_file": "exec-b9dccfa5-959d-4d55-a57a-b8cc353f63ec.png",
+    "mode": "builtin ImageGen",
+    "sha256": "dc4542b3f945d16422ac491cfe6b91aee24e6d2871815fd4c2213bc7d4a0ff53",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "prompt": "Wide 16:9 painterly anime visual novel background, empty university literature club classroom suspended in a black void, familiar wooden desks and empty chairs, very long subtly impossible perspective, large windows on left show a black eclipsed sun with thin crimson corona over a dark violet sky. One solitary desk near front reserved for a character sprite. Ominous psychological horror, quiet desolation, dusty blue shadows, restrained crimson light, finely painted detailed architecture matching warm slice-of-life VN now corrupted. NO people, NO faces, no blood, no text, no letters, no logos. Keep central foreground uncluttered and bottom quarter dark for dialogue box. 1920x1080 composition.",
+    "project_path": "game/images/bg_hollow.png",
+    "generated_file": "exec-aee5048e-7c90-4233-adc3-ea179ca07e04.png",
+    "mode": "builtin ImageGen",
+    "sha256": "a5465165c51a717f1c4dabab479ea357b8a86a1cb03a98cf8dd9c20dce9765da",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  {
+    "character": "cordelia",
+    "expression": "happy",
+    "reference": "game/images/v21_cordelia_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: small sincere happy smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_cordelia_happy.png",
+    "generated_file": "exec-9ff27835-0f55-4539-8ec6-7ebd2e1d5f53.png",
+    "mode": "builtin ImageGen",
+    "sha256": "904f9dcdb0d4e918111cbc13b1dbb67697e89d915ac2313d27f04e56d5a84454",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "cordelia",
+    "expression": "laugh",
+    "reference": "game/images/v21_cordelia_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: laughing warmly with closed eyes. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_cordelia_laugh.png",
+    "generated_file": "exec-6b52ceb2-f4b5-465f-9083-2ca478fc4429.png",
+    "mode": "builtin ImageGen",
+    "sha256": "e23959e1f907a27d8528502dce4a3d6a70d8169c47d92bfadeab8709aae9d3ef",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "cordelia",
+    "expression": "mad",
+    "reference": "game/images/v21_cordelia_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: angry narrowed eyes and frown. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_cordelia_mad.png",
+    "generated_file": "exec-ab8fdef5-e569-4576-8fe2-7f177c37e3c8.png",
+    "mode": "builtin ImageGen",
+    "sha256": "c645ba1af8eee0e126676170011e436bf0b65e9f10f1d53beecec250effcaf39",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "cordelia",
+    "expression": "sad",
+    "reference": "game/images/v21_cordelia_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: sad downcast eyes and subtle tears. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_cordelia_sad.png",
+    "generated_file": "exec-5cc28430-6823-41ca-9edb-0115b0023a08.png",
+    "mode": "builtin ImageGen",
+    "sha256": "64bd858a5db348b2f309be38c231aa7a873b077f2427d9b6b272870d967f8087",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "angry",
+    "reference": "game/images/v21_monika_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: cold angry expression. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_monika_angry.png",
+    "generated_file": "exec-e879e520-957b-4822-b319-dabbf3b6e6b9.png",
+    "mode": "builtin ImageGen",
+    "sha256": "3171503999348914b1c2f3f5889fb3444332d5015686442b23d782f40b8ce225",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "bike",
+    "reference": "game/images/v21_monika_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: hold a small bicycle keyring at waist, cheerful expression. NO bicycle in frame. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_monika_bike.png",
+    "generated_file": "exec-fe371047-dab2-4dcd-a36d-428cf555cfaa.png",
+    "mode": "builtin ImageGen",
+    "sha256": "b9cf52717c842f94b79e9f5b7cad01714ab7f7e176e43bad59bb467355fcac75",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "book",
+    "reference": "game/images/v21_monika_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: hold a closed green poetry book with no text at waist, calm smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_monika_book.png",
+    "generated_file": "exec-c286730f-4928-4e12-bb59-984b86d243fe.png",
+    "mode": "builtin ImageGen",
+    "sha256": "14f6baed8f7a370ae457b620bbb7889e5d733b40f76630dacb594b05c4c88797",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "happy",
+    "reference": "game/images/v21_monika_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: bright cheerful smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_monika_happy.png",
+    "generated_file": "exec-0a63860c-0021-4910-9836-89ebf3227e61.png",
+    "mode": "builtin ImageGen",
+    "sha256": "cd530888d81827c5e93365677c58964b49b702307e497aaea310f3292e1bd48c",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "touched",
+    "reference": "game/images/v21_monika_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: emotional tender expression with slightly wet eyes. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_monika_touched.png",
+    "generated_file": "exec-240eaa29-a1c7-46fe-832d-4518f9ee1164.png",
+    "mode": "builtin ImageGen",
+    "sha256": "c2e6c45805e2cb320969052cb277fcb302bbc5a60c65c48775135f51aec10111",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "obedience",
+    "expression": "cute",
+    "reference": "game/images/v21_obedience_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: shy affectionate blush and gentle smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_obedience_cute.png",
+    "generated_file": "exec-54fd97a1-9ebd-4073-8f05-fd329e363f6a.png",
+    "mode": "builtin ImageGen",
+    "sha256": "db9da0fc673d78f1fdf9f783521010a47ef6ab7711e1b37054ca37431de4d2c1",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "obedience",
+    "expression": "mean",
+    "reference": "game/images/v21_obedience_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: defiant angry frown. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_obedience_mean.png",
+    "generated_file": "exec-631c24dc-8a49-4343-9c38-50f91b116f03.png",
+    "mode": "builtin ImageGen",
+    "sha256": "0c30398c62614208bd1bd2c7543ad0730f488960f131bdf2684f8837e8fe061a",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "obedience",
+    "expression": "surprise",
+    "reference": "game/images/v21_obedience_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: wide surprised purple eyes, slightly open mouth. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_obedience_surprise.png",
+    "generated_file": "exec-4a06ecd1-c10b-41bf-b3dd-ce2ba55f91d0.png",
+    "mode": "builtin ImageGen",
+    "sha256": "502a262f3640a4bb737f6ffdb7d164598a25d49eaf8dd26b646261ea5478ed60",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "bbq",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: hold two grilled vegetable skewers near waist, cheerful smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_sayori_bbq.png",
+    "generated_file": "exec-ae694116-a856-44ea-a595-d93fc54c5f9f.png",
+    "mode": "builtin ImageGen",
+    "sha256": "e25679641e4b7a9acd690efcb1394fd00720d0e607ca8997695511749bc565e4",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "cry",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit the attached finished character sprite into ONE expression/pose variant for the SAME game. The reference is the final master, not just inspiration. Change facial expression only: tear-filled blue eyes, a small tear on each cheek, shaky sad mouth. Restrained sincere sadness, no injuries.\nSTRICT INVARIANTS: identical adult character identity, exact clothing with identical colors and all small details, hair and accessories, canvas 1024x1536 portrait, same absolute head location and size, same body length, same mid-thigh crop, same light and linework. Do NOT zoom, crop, rescale, add outlines, alter body proportions, change clothes, add background or drop shadow. Keep intact top hair margin. Preserve the original true transparent alpha background. Sharp clean anime visual novel sprite. Single character, no grid, no labels. Return full edited sprite, not just face.",
+    "project_path": "game/images/v21_sayori_cry.png",
+    "generated_file": "exec-0e186805-3a60-4e5f-b3d9-224b48154b8a.png",
+    "mode": "builtin ImageGen",
+    "sha256": "48fdf2f51110f1a3fc1cd5aa1496fde2768e01603a776bd4f030f9a2490e377d",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "happy",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit the attached finished character sprite into ONE expression/pose variant for the SAME game. The reference is the final master, not just inspiration. Change facial expression only: a joyful warm smile with gently closed smiling eyes.\nSTRICT INVARIANTS: identical adult character identity, exact clothing with identical colors and all small details, hair and accessories, canvas 1024x1536 portrait, same absolute head location and size, same body length, same mid-thigh crop, same light and linework. Do NOT zoom, crop, rescale, add outlines, alter body proportions, change clothes, add background or drop shadow. Keep intact top hair margin. Preserve the original true transparent alpha background. Sharp clean anime visual novel sprite. Single character, no grid, no labels. Return full edited sprite, not just face.",
+    "project_path": "game/images/v21_sayori_happy.png",
+    "generated_file": "exec-14e2d231-94ee-454d-85b6-34183b35e19f.png",
+    "mode": "builtin ImageGen",
+    "sha256": "1905fb47f3bbd5dce0902dadf371ab5ec6074aad50315e5c55b80835950bdd84",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "hug",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: open both arms toward viewer inviting a friendly embrace, smiling warmly. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_sayori_hug.png",
+    "generated_file": "exec-803d3065-c52d-4849-92ab-fc387f595ab3.png",
+    "mode": "builtin ImageGen",
+    "sha256": "e871c4a3a3049f90c8a1c83a901356193eb5f2604a48e6667a7df15664e224a7",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "ice",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: hold one small ice cream cone in right hand at chest, joyful smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_sayori_ice.png",
+    "generated_file": "exec-77aabd79-c774-4c4e-a6a0-a5c453aee4ff.png",
+    "mode": "builtin ImageGen",
+    "sha256": "ea29a5f1a0f7005ecf09ebb82938895e70cba979684deb5297e9ff90dd9ac2aa",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "joke",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit the attached finished character sprite into ONE expression/pose variant for the SAME game. The reference is the final master, not just inspiration. Change facial expression only: playful teasing grin, one eye winking, cheerful not mocking.\nSTRICT INVARIANTS: identical adult character identity, exact clothing with identical colors and all small details, hair and accessories, canvas 1024x1536 portrait, same absolute head location and size, same body length, same mid-thigh crop, same light and linework. Do NOT zoom, crop, rescale, add outlines, alter body proportions, change clothes, add background or drop shadow. Keep intact top hair margin. Preserve the original true transparent alpha background. Sharp clean anime visual novel sprite. Single character, no grid, no labels. Return full edited sprite, not just face.",
+    "project_path": "game/images/v21_sayori_joke.png",
+    "generated_file": "exec-18dce92e-e5b3-41f6-8be2-0097a41fd785.png",
+    "mode": "builtin ImageGen",
+    "sha256": "335a1b432e25867121d067258c9073b940456820fa932d4088063f33b0f29f91",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "potato",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: hold a small paper bag with a roasted sweet potato in both hands at waist, happy hungry smile. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_sayori_potato.png",
+    "generated_file": "exec-e1b2eca9-b0a4-4a50-8cae-d67fba92589f.png",
+    "mode": "builtin ImageGen",
+    "sha256": "cc1294e335b0296dc49aba9a5d5d00d2a2e0ea53f24b7fa77fa5e7bb836fdade",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "surprise",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit attached finished adult character sprite into ONE variant: surprised wide blue eyes and small open mouth. STRICT INVARIANTS: SAME character identity, EXACT clothing colors and tiny details, hair/accessories, 1024x1536 portrait canvas, same absolute head coordinates and size, body proportions, same mid-thigh framing and lighting. No zoom, crop, rescale, outline, shadow or background. Preserve TRUE transparent alpha outside silhouette. Sharp polished anime visual novel sprite, single character. Full edited sprite, not only face.",
+    "project_path": "game/images/v21_sayori_surprise.png",
+    "generated_file": "exec-4076b0ba-e690-4c0d-b99f-ec2db020e604.png",
+    "mode": "builtin ImageGen",
+    "sha256": "c9e2450e15503de8db8799f3e34c16a2b3cfd61e59649a82d0e716d257642479",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "sayori",
+    "expression": "understanding",
+    "reference": "game/images/v21_sayori_normal.png",
+    "prompt": "Use case: identity-preserve. Edit the attached finished character sprite into ONE expression/pose variant for the SAME game. The reference is the final master, not just inspiration. Change facial expression only: compassionate wistful smile, relaxed eyebrows, open soft blue eyes.\nSTRICT INVARIANTS: identical adult character identity, exact clothing with identical colors and all small details, hair and accessories, canvas 1024x1536 portrait, same absolute head location and size, same body length, same mid-thigh crop, same light and linework. Do NOT zoom, crop, rescale, add outlines, alter body proportions, change clothes, add background or drop shadow. Keep intact top hair margin. Preserve the original true transparent alpha background. Sharp clean anime visual novel sprite. Single character, no grid, no labels. Return full edited sprite, not just face.",
+    "project_path": "game/images/v21_sayori_understanding.png",
+    "generated_file": "exec-eb075e81-29b3-48b9-8c75-1af63689a5c2.png",
+    "mode": "builtin ImageGen",
+    "sha256": "198d7d5afb2570121111cc2c0b640776944751c4fd0e582e7fe6a1178a2f2c36",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "character": "monika",
+    "expression": "uncanny",
+    "reference": "game/images/v21_monika_normal.png",
+    "prompt": "Edit this exact adult Monika visual-novel sprite: only change her expression into an uncanny direct stare, very small green pupils, subtly asymmetric fixed smile, faint under-eye shadows. No gore. Keep SAME 1024x1536 canvas, head coordinates, size, hair, white bow, gray blazer, orange vest, red ribbon, navy skirt, pose and thigh framing. Single full sprite, NO background, NO halo, NO shadow surrounding silhouette. True completely transparent pixels outside character. Sharp polished anime line art. Identity and wardrobe preservation is essential.",
+    "project_path": "game/images/v21_monika_uncanny.png",
+    "generated_file": "exec-f548f6c1-edcb-4b2e-a950-77cf9e4765aa.png",
+    "mode": "builtin ImageGen",
+    "sha256": "ec75d569b4b98e61d8ddae68b0732e680cd9a9cb5876a0445dc8b7d46512aed8",
+    "size": [
+      1024,
+      1536
+    ]
+  }
+]

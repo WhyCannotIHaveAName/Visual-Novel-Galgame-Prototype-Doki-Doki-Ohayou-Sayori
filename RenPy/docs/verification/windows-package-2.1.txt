@@ -1,0 +1,7 @@
+PASS F6, live search, direct scene replay, return to parent chapter
+PASS debug replay preserves parent state and all persistent collection data
+PASS all four effect previews at intensity 2
+PASS all four effect previews at intensity 1
+PASS all four effect previews at intensity 0
+PASS update 2.1 screenshots and effect rendering
+PASS UI navigation, gallery, help, save, preferences, 11-option hidden menu

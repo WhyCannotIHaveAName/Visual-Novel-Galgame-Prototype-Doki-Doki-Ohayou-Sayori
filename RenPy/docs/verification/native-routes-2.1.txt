@@ -1,0 +1,30 @@
+PASS debug replay preserves parent state and all persistent collection data
+PASS all four effect previews at intensity 2
+PASS all four effect previews at intensity 1
+PASS all four effect previews at intensity 0
+PASS update 2.1 screenshots and effect rendering
+BEGIN native complete-playthrough suite
+PASS full route -> ending 1; menu choices {'chapter3': 0, 'chapter12': 0, 'chapter30': 0, 'chapter37': 1, 'chapter40': 0}
+PASS full route -> ending 2; menu choices {'chapter3': 1, 'chapter12': 1, 'chapter30': 0, 'chapter37': 1, 'chapter40': 1}
+PASS full route -> ending 3; menu choices {'chapter3': 2, 'chapter12': 3, 'chapter30': 0, 'chapter37': 0, 'chapter38': 0}
+PASS full route -> ending 4; menu choices {'chapter30': 1, 'chapter67': 0}
+PASS full route -> ending 5; menu choices {'chapter30': 1, 'chapter67': 1}
+PASS full route -> ending 6; menu choices {'chapter30': 1, 'chapter67': 2}
+PASS full route -> ending 7; menu choices {'chapter30': 2, 'chapter88': 0}
+PASS full route -> ending 8; menu choices {'chapter30': 2, 'chapter88': 1}
+PASS full route -> ending 9; menu choices {'chapter19': 1, 'chapter26': 1, 'chapter30': 1, 'chapter66': 1}
+PASS full route -> ending 9; menu choices {'chapter3': 0, 'chapter12': 2, 'chapter30': 0, 'chapter31': 1, 'chapter37': 2}
+PASS full route -> ending 9; menu choices {'chapter30': 0, 'chapter31': 2, 'chapter38': 1}
+PASS full route -> ending 9; menu choices {'chapter19': 1, 'chapter26': 1, 'chapter30': 2, 'chapter88': 1, 'chapter99': 1}
+PASS all 39 achievements earned by playing; all five theaters unlocked
+PASS complete side story -> theater1
+PASS complete side story -> theater2
+PASS complete side story -> theater3
+PASS complete side story -> theater4
+PASS complete side story -> theater5
+PASS 7992 rendered dialogue interactions across 94 chapters
+PASS native save/load restores route counter
+PASS ending replay returns and preserves parent route state
+ALL PASS
+PASS new engine process retained all achievements and theater unlocks
+PASS UI navigation, gallery, help, save, preferences, 11-option hidden menu

@@ -1,0 +1,2 @@
+# Keep the verified player build byte-for-byte identical after cloning.
+Windows/OhayouSayori-2.1-win/** -text -diff -whitespace
